@@ -1,0 +1,9 @@
+2|as|30|vv
+2|a|2|d "c:\Users\HP\Desktop\2026 Summer Internships\Thiranrx C++\" ; if ($?) { g++ stu1.cpp -o stu1 } ; if ($?) { .\stu1 }
+2|as|2|g
+2222|As Sd|23|aa
+2123|As As|22|ss
+1111|2 3|23|ss
+2223|Df Df|22|w
+6789|8 8|30|gf
+7867|Ty Ty|23|tr
